@@ -6,4 +6,4 @@
 <li>JQUERY</li>
 </ul>
 <h1>Live Demo</h1>
-hscounterup.netlify.app
+https://hscounterup.netlify.app/
